@@ -6,5 +6,5 @@ Team 3
 - [x] Exercise 6
 - [x] Exercise 7
 - [x] Exercise 8
-- [ ] Exercise 11
+- [x] Exercise 11
 
